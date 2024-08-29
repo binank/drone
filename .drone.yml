@@ -27,7 +27,7 @@ steps:
       tags: latest
 
 trigger:
-  branch:
+  branch: 
     - main
   event:
     - push
